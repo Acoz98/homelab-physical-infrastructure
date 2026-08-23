@@ -93,7 +93,7 @@ Front View
 
 ![Empty 10-inch 5U rack mounted to the wall](../images/03-empty-rack-mounted.jpg)
 
-*Mac mini test-fitted into its 3D-printed 10-inch rack adapter.*
+
 During assembly:
 
 1. Align the rack rails and structural supports.
