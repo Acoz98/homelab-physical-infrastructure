@@ -226,6 +226,8 @@ Leaving the rack uncabled makes the remaining equipment easier to install.
 
 ![Mac mini installed in 10-inch rack mount](../images/07-mac-mini-rack-mount.jpg)
 
+![Mac mini rear port access](../images/14-mac-mini-rear-port-access.jpg)
+
 *Mac mini test-fitted into its 3D-printed 10-inch rack adapter.*
 
 ---
@@ -259,6 +261,10 @@ The networking interfaces were inspected before the system was installed.
 ![Lenovo ThinkCentre installed in rack mount](../images/08-thinkcentre-rack-mount.jpg)
 
 *Lenovo ThinkCentre installed in its custom 3D-printed rack adapter.*
+
+![Lenovo ThinkCentre mounted with rear access](../images/13-thinkcentre-mounted-rear-access.jpg) 
+
+*Lenovo ThinkCentre installed in the 3D-printed rack mount while maintaining access to the rear connections and ventilation.*
 
 ---
 
@@ -397,6 +403,10 @@ Avoid positioning cables directly against cooling openings.
 
 A compact rack saves space, but the smaller physical area also makes airflow planning more important.
 
+### Rear Access and Serviceability ![Rear view of installed rack equipment](../images/15-rear-rack-hardware-layout.jpg) 
+
+*Rear view of the installed Mac mini and Lenovo ThinkCentre showing spacing between equipment and continued access to power, networking, and peripheral connections.*
+
 ---
 
 # 13. Connect Ethernet Cabling
@@ -426,6 +436,12 @@ Excess cable inside a compact rack can:
 * Make troubleshooting harder
 * Put unnecessary pressure on connectors
 * Make the rack appear disorganized
+
+### Build Evidence 
+![Completed Ethernet cabling](../images/16-completed-rack-cabling.jpg) 
+
+*Rack after connecting the front keystone panel, managed switch, firewall interfaces, and installed infrastructure equipment.*
+
 
 ---
 
