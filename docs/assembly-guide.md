@@ -54,12 +54,7 @@ For this build, the printed components included:
 
 The original models used for this project are documented in:
 
-**[3D Printing Guide](printing-guide.md)**
-### Build Evidence
-
-The major structural and equipment-mount components were printed before assembly.
-
-[![3D-printed components used for the rack](../images/01-rack-components.jpg)](https://github.com/Acoz98/homelab-physical-infrastructure/blob/main/images/images/01-rack-components.jpg?raw=true)
+![3D-printed rack components](../images/01-rack-components.jpg)
 
 *3D-printed rack rails, equipment mounts, and supporting components prepared before assembly.*
 
@@ -88,6 +83,7 @@ Front View
 
        10-inch rack width
 ```
+
 ### Build Evidence
 
 ![Mac mini installed in 10-inch rack mount](../images/07-mac-mini-rack-mount.jpg)
@@ -129,6 +125,7 @@ Wall
  │╱___|
 
 ```
+
 ### Build Evidence
 
 The wall-side mounting components were secured before installing the assembled rack.
@@ -136,6 +133,8 @@ The wall-side mounting components were secured before installing the assembled r
 ![French cleat wall mounting components](../images/02-french-cleat-wall-mount.jpg)
 
 *French cleat mounting components installed on the wall.*
+
+![Empty 10-inch 5U rack mounted to the wall](../images/03-empty-rack-mounted.jpg)
 
 One part of the cleat is secured to the wall.
 
@@ -280,8 +279,7 @@ Do not connect the Ethernet cables yet.
 
 ![NETGEAR GS308E mounted in 10-inch rack adapter](../images/10-netgear-gs308e-rack-mount.jpg)
 
-*NETGEAR GS308E managed switch installed in its screwless 3D-printed rack mount.*
----
+## *NETGEAR GS308E managed switch installed in its screwless 3D-printed rack mount.*
 
 # 9. Install the Raspberry Pi and Keystone Panel
 
@@ -311,6 +309,8 @@ The keystone connections can be used for devices such as:
 The labels should reflect your own network design.
 
 ### Build Evidence
+
+![Raspberry Pi 4](../images/04-raspberry-pi-4.jpg)
 
 ![Five-port keystone patch panel](../images/09-keystone-patch-panel.jpg)
 
@@ -485,6 +485,7 @@ The rack now provides a centralized location for:
                          │
                       Wireless
 ```
+
 ## Final Result
 
 ![Completed 10-inch 5U homelab rack](../images/12-completed-rack.jpg)
@@ -564,3 +565,4 @@ This makes the project adaptable to other mini PCs, switches, Raspberry Pi model
 **Physical rack assembly:** Complete
 
 The rack is now ready for the networking and server configuration stages of the homelab.
+              
