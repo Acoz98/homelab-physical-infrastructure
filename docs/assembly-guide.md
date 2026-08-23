@@ -55,6 +55,13 @@ For this build, the printed components included:
 The original models used for this project are documented in:
 
 **[3D Printing Guide](printing-guide.md)**
+### Build Evidence
+
+The major structural and equipment-mount components were printed before assembly.
+
+![3D-printed components used for the rack](../images/01-rack-components.jpg)
+
+*3D-printed rack rails, equipment mounts, and supporting components prepared before assembly.*
 
 ---
 
@@ -71,17 +78,21 @@ A simplified representation is:
 ```text
 Front View
 
-┌──────────────────────────────┐
-│                              │
-│             5U               │
-│                              │
-│                              │
-│                              │
+┌ ─────────────────────────────┐
+│ |                          | │
+│ |            5U            | │
+│ |                          | │
+│ |                          | │
+│ |                          | │
 └──────────────────────────────┘
 
        10-inch rack width
 ```
+### Build Evidence
 
+![Mac mini installed in 10-inch rack mount](../images/07-mac-mini-rack-mount.jpg)
+
+*Mac mini test-fitted into its 3D-printed 10-inch rack adapter.*
 During assembly:
 
 1. Align the rack rails and structural supports.
@@ -118,6 +129,13 @@ Wall
  │╱___|
 
 ```
+### Build Evidence
+
+The wall-side mounting components were secured before installing the assembled rack.
+
+![French cleat wall mounting components](../images/02-french-cleat-wall-mount.jpg)
+
+*French cleat mounting components installed on the wall.*
 
 One part of the cleat is secured to the wall.
 
@@ -200,6 +218,12 @@ Do not connect all cables yet.
 
 Leaving the rack uncabled makes the remaining equipment easier to install.
 
+### Build Evidence
+
+![Mac mini installed in 10-inch rack mount](../images/07-mac-mini-rack-mount.jpg)
+
+*Mac mini test-fitted into its 3D-printed 10-inch rack adapter.*
+
 ---
 
 # 7. Install the Lenovo ThinkCentre
@@ -219,6 +243,18 @@ Check access to:
 Install the mount into the rack and carefully insert the ThinkCentre.
 
 Verify that the computer is secure and does not shift when light pressure is applied.
+
+### Build Evidence
+
+The networking interfaces were inspected before the system was installed.
+
+![Lenovo ThinkCentre network interfaces](../images/05-thinkcentre-network-ports.jpg)
+
+*ThinkCentre networking interfaces inspected before deployment.*
+
+![Lenovo ThinkCentre installed in rack mount](../images/08-thinkcentre-rack-mount.jpg)
+
+*Lenovo ThinkCentre installed in its custom 3D-printed rack adapter.*
 
 ---
 
@@ -240,6 +276,11 @@ After inserting the switch, verify that it sits securely inside the printed moun
 
 Do not connect the Ethernet cables yet.
 
+### Build Evidence
+
+![NETGEAR GS308E mounted in 10-inch rack adapter](../images/10-netgear-gs308e-rack-mount.jpg)
+
+*NETGEAR GS308E managed switch installed in its screwless 3D-printed rack mount.*
 ---
 
 # 9. Install the Raspberry Pi and Keystone Panel
@@ -269,6 +310,12 @@ The keystone connections can be used for devices such as:
 
 The labels should reflect your own network design.
 
+### Build Evidence
+
+![Five-port keystone patch panel](../images/09-keystone-patch-panel.jpg)
+
+*Five-keystone front panel used to provide organized, front-accessible network connections.*
+
 ---
 
 # 10. Label the Patch Panel
@@ -296,6 +343,11 @@ Proper labels make it easier to:
 * Document the network
 * Understand the rack months later
 
+### Build Evidence
+
+![Five-port keystone patch panel](../images/09-keystone-patch-panel.jpg)
+
+*Five-keystone front panel used to provide organized, front-accessible network connections.*
 
 ---
 
@@ -315,6 +367,12 @@ Positioning the wireless device toward the top helps:
 The shelf slots also provide additional airflow around the device.
 
 Verify that the wireless equipment cannot easily slide or fall from the shelf.
+
+### Build Evidence
+
+![Wireless access point used in the rack](../images/11-wireless-access-point.jpg)
+
+*Wireless equipment positioned at the upper section of the rack.*
 
 ---
 
@@ -427,7 +485,11 @@ The rack now provides a centralized location for:
                          │
                       Wireless
 ```
+## Final Result
 
+![Completed 10-inch 5U homelab rack](../images/12-completed-rack.jpg)
+
+*Completed physical homelab infrastructure with the wireless device, patch panel, managed switch, ThinkCentre infrastructure system, and Mac mini installed.*
 The physical infrastructure provides the foundation for the network and server projects that follow.
 
 ---
