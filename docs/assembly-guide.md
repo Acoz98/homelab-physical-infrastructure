@@ -104,11 +104,11 @@ This build uses a **French cleat system** so the rack can be mounted to the wall
 The system consists of two parts:
 
 ```text
-          ________________|
-     \ - |                |
-      \  |Rack-Side Cleat |
-       \ |                |
-        \|                |
+      _____________________|
+      |   /                |
+      |  / Rack-Side Cleat |
+      | /                  |
+      |/                   |
 Wall
  │
  │    Wall-Side Cleat
