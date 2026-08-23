@@ -87,7 +87,7 @@ During assembly:
 1. Align the rack rails and structural supports.
 2. Install the required fasteners loosely at first.
 3. Confirm that the frame sits square.
-4. Tighten the fasteners gradually.
+4. Tighten the #M6 Screws gradually with the #M6 Nut.
 5. Verify that both sides remain parallel.
 6. Test a rack-mounted component before continuing.
 
@@ -105,16 +105,17 @@ The system consists of two parts:
 
 ```text
           ________________|
-         /                |
-        / Rack-Side Cleat |
-       /                  |
+     \ - |                |
+      \  |Rack-Side Cleat |
+       \ |                |
+        \|                |
 Wall
  │
  │    Wall-Side Cleat
- │   ╱
- │  ╱
- │ ╱
- │╱
+ │   ╱|
+ │  ╱ |
+ │ ╱  |
+ │╱___|
 
 ```
 
