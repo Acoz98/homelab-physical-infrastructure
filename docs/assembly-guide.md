@@ -59,7 +59,7 @@ The original models used for this project are documented in:
 
 The major structural and equipment-mount components were printed before assembly.
 
-![3D-printed components used for the rack](../images/01-rack-components.jpg)
+[![3D-printed components used for the rack](../images/01-rack-components.jpg)](https://github.com/Acoz98/homelab-physical-infrastructure/blob/main/images/images/01-rack-components.jpg?raw=true)
 
 *3D-printed rack rails, equipment mounts, and supporting components prepared before assembly.*
 
