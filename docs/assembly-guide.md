@@ -34,6 +34,12 @@ Inspect each part for:
 
 Perform a test fit of equipment mounts before permanently installing the rack.
 
+### Build Evidence
+
+
+![3D-printed rack components](../images/01-rack-components.jpg)
+
+
 It is much easier to correct a fitment problem before the rack is mounted and fully populated.
 
 ---
@@ -54,7 +60,6 @@ For this build, the printed components included:
 
 The original models used for this project are documented in:
 
-![3D-printed rack components](../images/01-rack-components.jpg)
 
 *3D-printed rack rails, equipment mounts, and supporting components prepared before assembly.*
 
@@ -86,7 +91,7 @@ Front View
 
 ### Build Evidence
 
-![Mac mini installed in 10-inch rack mount](../images/07-mac-mini-rack-mount.jpg)
+![Empty 10-inch 5U rack mounted to the wall](../images/03-empty-rack-mounted.jpg)
 
 *Mac mini test-fitted into its 3D-printed 10-inch rack adapter.*
 During assembly:
